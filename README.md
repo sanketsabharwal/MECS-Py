@@ -193,4 +193,4 @@ Finally, we visualize the results to get a clear understanding of the synchroniz
 <a name="license"></a>
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License. Click [here](https://github.com/coconutcow/MECS-Py/blob/main/LICENSE) to see the License.
